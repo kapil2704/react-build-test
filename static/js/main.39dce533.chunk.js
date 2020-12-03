@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-build-test"]=this["webpackJsonpreact-build-test"]||[]).push([[0],{13:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n(0),a=n.n(c),s=n(3),i=n.n(s),o=(n(10),n(11),n(4)),u=n.n(o);var b=function(){return Object(r.jsx)(u.a,{tag:"textarea"})};i.a.render(Object(r.jsx)(a.a.StrictMode,{children:Object(r.jsx)(b,{})}),document.getElementById("root"))}},[[13,1,2]]]);
+//# sourceMappingURL=main.39dce533.chunk.js.map
